@@ -9,10 +9,10 @@ public class Neon20 {
     System.out.println("Level 7(Distinction)");
    }
    else if(score>=70){
-    System.out.println("Level 6(Meritous achivement)");
+    System.out.println("Level 6(Meritous achievement)");
    }
    else if(score>=60){
-    System.out.println("Level 5(Substantial achivement)");
+    System.out.println("Level 5(Substantial achievement)");
    }
    else if(score>=50){
     System.out.println("level 4(Moderate achievement)");
